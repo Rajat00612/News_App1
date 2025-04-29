@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# News_App1
+This repository contains my React.js learning projects and exercises, covering fundamental to advanced concepts. It includes hands-on practice web applications to enhance my JavaScript skills through real-world examples and challenges. 🚀
+>>>>>>> 049c7f621e52a22de5ffbfd2f7aaf710f7ea3d72
+# My Local News App / News_App1
+This is a merged version combining both local and GitHub descriptions.
