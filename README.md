@@ -73,5 +73,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # News_App1
 This repository contains my React.js learning projects and exercises, covering fundamental to advanced concepts. It includes hands-on practice web applications to enhance my JavaScript skills through real-world examples and challenges. 🚀
 >>>>>>> 049c7f621e52a22de5ffbfd2f7aaf710f7ea3d72
-# My Local News App / News_App1
-This is a merged version combining both local and GitHub descriptions.
